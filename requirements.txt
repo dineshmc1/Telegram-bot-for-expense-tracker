@@ -1,0 +1,7 @@
+python-telegram-bot
+gspread
+langchain
+langgraph
+openai
+python-dotenv
+pydantic
